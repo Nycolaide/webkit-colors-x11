@@ -68,7 +68,7 @@ const color = getColor('red', undefined, 'x11');
 
 ## License
 
-Licensed under the [MIT license](https://github.com/minedelve/webkit-colors-X11/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/minedelve/WebKit-colors-X11/blob/main/LICENSE.md).
 
 Copyright © 2021-2023 [Minedelve](https://minedelve.com)
 
