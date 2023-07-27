@@ -8,7 +8,7 @@ _TEAM_
 My role on this project: **Developer**
 Name: **Laurent Grimaldi**
 Email: **laurent.grimaldi@minedelve.com**
-Github: **https://github.com/nikolaide**
+Github: **https://github.com/laustrasza**
 Location: **Massy (91), France**
 
 _THANKS_

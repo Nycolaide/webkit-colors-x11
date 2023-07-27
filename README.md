@@ -64,7 +64,7 @@ const color = getColor('red', undefined, 'x11');
 
 ## Core Team
 
-[Laurent Grimaldi](https://github.com/nikolaide)
+[Laurent Grimaldi](https://github.com/laustrasza)
 
 ## License
 
