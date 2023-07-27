@@ -1,8 +1,58 @@
 {
   "name": "@minedelve/webkit-colors-x11",
+  "description": "Library color HTML/CSS X11",
   "version": "0.0.1",
-  "main": "index.js",
-  "repository": "https://github.com/minedelve/webkit-colors-X11.git",
   "author": "Laurent Grimaldi <laurent.grimaldi@minedelve.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/entry-bundler.d.ts",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "keywords": [
+    "x11",
+    "x11-color",
+    "color",
+    "javascript",
+    "typescript",
+    "css",
+    "responsive",
+    "color-library",
+    "minedelve"
+  ],
+  "homepage": "https://minedelve.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minedelve/webkit-colors-X11.git",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/minedelve/arkstone/issues"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c --bundleConfigAsCjs",
+    "lint": "eslint",
+    "prepare": "husky install"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint",
+      "pre-push": "yarn lint"
+    }
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-prettier": "^8.9.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "husky": "^8.0.3",
+    "prettier": "^3.0.0",
+    "rollup": "^3.26.3",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-typescript2": "^0.35.0",
+    "typescript": "^5.1.6"
+  }
 }
