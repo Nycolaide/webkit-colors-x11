@@ -24,11 +24,11 @@
   "homepage": "https://minedelve.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/minedelve/WebKit-colors-X11.git",
+    "url": "https://github.com/minedelve/webkit-colors-x11.git",
     "directory": "/"
   },
   "bugs": {
-    "url": "https://github.com/minedelve/WebKit-colors-X11/issues"
+    "url": "https://github.com/minedelve/webkit-colors-x11/issues"
   },
   "files": [
     "dist"

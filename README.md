@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/minedelve/.github/blob/minedelve/picture/packages/webkit-colors-X11/x11colors_logo.png" height="128">
-  <h1 align="center">Webkit Colors X11</h1>
+  <h1 align="center">WebKit Colors X11</h1>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ const color = getColor('red', undefined, 'x11');
 
 ## License
 
-Licensed under the [MIT license](https://github.com/minedelve/WebKit-colors-X11/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/minedelve/webkit-colors-x11/blob/main/LICENSE.md).
 
 Copyright © 2021-2023 [Minedelve](https://minedelve.com)
 

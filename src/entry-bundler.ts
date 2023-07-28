@@ -1,3 +1,14 @@
+/**
+ * webkit-colors-x11
+ * @description Kit for get colors rgb or hex to standard X11.
+ *
+ * @company Minedelve
+ * @package webkit-colors-x11
+ * @author Laurent Grimaldi <laurent.grimaldi@minedelve.com>
+ * @repository https://github.com/minedelve/webkit-colors-x11
+ * @copyright (c) 2023 Minedelve
+ */
+
 import { formatColorToHex, formatPropsKey } from './utils';
 
 import colorHtml from './libs/colorHtml';
