@@ -35,11 +35,11 @@ Webkit colors X11 is a package that allows you to retrieve any standard X11 or X
 ## Installation
 
 ```
-yarn add webkit-colors-x11 -D
+yarn add @minedelve/webkit-colors-x11 -D
 ```
 
 ```
-npm install webkit-colors-x11 --save-dev
+npm install @minedelve/webkit-colors-x11 --save-dev
 ```
 
 ## Use
